@@ -1,1 +1,1 @@
-from choiceInput import ChoiceInput;
+from .choiceInput import ChoiceInput;
